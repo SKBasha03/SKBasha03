@@ -64,7 +64,4 @@ A full-stack platform for managing leagues, communities, registrations, and admi
 - 🔗 https://wsl.teamwano.online
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SKBasha03&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SKBasha03&layout=compact&theme=tokyonight&hide_border=true)
