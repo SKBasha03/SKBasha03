@@ -46,3 +46,27 @@ Building scalable web applications, APIs, and community management platforms usi
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vscode" />
 </p>
+
+
+---
+
+## 🚀 Current Projects
+
+### 🏁 Wano League Platform
+
+A full-stack platform for managing leagues, communities, registrations, and administration.
+
+### 🏎️ Wano Endurance Championship
+
+Championship management platform featuring authentication, team registration, race management, and results.
+
+### 🌐 Community Management Platform
+
+Scalable dashboard built with Next.js, Supabase, PostgreSQL, and Firebase Authentication.
+
+---
+
+## 🌐 Live Projects
+
+- 🔗 https://wec.teamwano.online
+- 🔗 https://wsl.teamwano.online
