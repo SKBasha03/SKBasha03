@@ -52,17 +52,9 @@ Building scalable web applications, APIs, and community management platforms usi
 
 ## 🚀 Current Projects
 
-### 🏁 Wano League Platform
+### 🏁 Team Wano Platform
 
 A full-stack platform for managing leagues, communities, registrations, and administration.
-
-### 🏎️ Wano Endurance Championship
-
-Championship management platform featuring authentication, team registration, race management, and results.
-
-### 🌐 Community Management Platform
-
-Scalable dashboard built with Next.js, Supabase, PostgreSQL, and Firebase Authentication.
 
 ---
 
@@ -70,3 +62,9 @@ Scalable dashboard built with Next.js, Supabase, PostgreSQL, and Firebase Authen
 
 - 🔗 https://wec.teamwano.online
 - 🔗 https://wsl.teamwano.online
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SKBasha03&show_icons=true&theme=tokyonight&hide_border=true)
