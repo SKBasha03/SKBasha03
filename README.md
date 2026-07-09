@@ -18,3 +18,31 @@ Building scalable web applications, APIs, and community management platforms usi
 - 🚀 Experienced with modern frontend and backend technologies
 - 🌐 Interested in cloud infrastructure and automation
 - 🎯 Currently building league and community management platforms
+
+- ---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vscode" />
+</p>
