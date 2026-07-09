@@ -1,8 +1,15 @@
-# Hi, I'm Basha 👋
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Full Stack Developer
+                    BASHA
 
-Building scalable web applications and community management platforms.
+          Full Stack Developer
+
+React • Next.js • TypeScript • Node.js
+Supabase • PostgreSQL • Firebase • Cloudflare
+
+Building Production-Ready Web Applications
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
