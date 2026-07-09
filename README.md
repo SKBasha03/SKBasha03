@@ -65,9 +65,6 @@ A full-stack platform for managing leagues, communities, registrations, and admi
 
 ---
 
----
-
----
 
 ## 📫 Connect
 
