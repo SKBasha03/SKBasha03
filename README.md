@@ -67,6 +67,10 @@ A full-stack platform for managing leagues, communities, registrations, and admi
 
 ---
 
-## 📈 Contribution Graph
+---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=SKBasha03&theme=tokyo-night&hide_border=true)
+## 📫 Connect
+
+-  Email : sushanthkirushna03032006@gmail.com
+-  LinkedIn : Sushanth Kirushna
+-  Discord : sk_basha
